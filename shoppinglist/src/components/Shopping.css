@@ -1,6 +1,6 @@
 .ShoppingList-container {
     display: flex;
-    margin-top: 25px;
+    margin-top: 10px;
     align-items: baseline;
 }
 .shopping-input {
@@ -20,4 +20,12 @@
 }
 button:focus {
     outline: 0;
+}
+i {
+    margin:10px;
+    font-size: 40px;
+}
+.pay {
+    margin-top: 25px;
+    color:#415054;
 }
