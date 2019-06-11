@@ -1,0 +1,23 @@
+.ShoppingList-container {
+    display: flex;
+    margin-top: 25px;
+    align-items: baseline;
+}
+.shopping-input {
+    padding: 15px 45px;
+    font-size: 25px;
+}
+.shopping-input:focus {
+    outline: 0;
+}
+.adding-btn {
+    padding: 25px 25px;
+    margin-left: 75px;
+    font-size: 40px;
+    border-radius: 50%;
+    background-color: #3398db;
+    color: white;
+}
+button:focus {
+    outline: 0;
+}
